@@ -38,3 +38,7 @@ El objetivo es predecir la demanda de energía $t+1$ a partir de la información
 1. **Descargar el dataset original** desde la UCI (o usar el archivo `Steel_industry_data.csv` ubicado en la carpeta `datos/`).
 2. **Abrir el archivo** `codigo/caso1_regresion.R`.
 3. **Ejecutar el script completo**. Los resultados y gráficos se generarán automáticamente en la carpeta `resultados/`.
+
+**Fuente original:** UCI Machine Learning Repository - Steel Industry Energy Consumption  
+**Nombre del archivo:** `Steel_industry_data.csv`  
+**Enlace:** https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption
