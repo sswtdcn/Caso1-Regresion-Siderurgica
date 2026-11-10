@@ -34,8 +34,7 @@ El objetivo es predecir la demanda de energía $t+1$ a partir de la información
 
 ---
 
-## 💻 4. Instrucciones para Reproducir el Código
-1. Clonar o descargar este repositorio.
-2. Asegurarse de tener instalado R (versión 4.0 o superior).
-3. Abrir R / RStudio y verificar que el archivo `Steel_industry_data.csv` esté en la misma carpeta del script.
-4. Ejecutar `Codigo_Ordenado_final.R`. El script creará automáticamente la carpeta `/resultados` y guardará los outputs.
+### Instrucciones de Ejecución
+1. **Descargar el dataset original** desde la UCI (o usar el archivo `Steel_industry_data.csv` ubicado en la carpeta `datos/`).
+2. **Abrir el archivo** `codigo/caso1_regresion.R`.
+3. **Ejecutar el script completo**. Los resultados y gráficos se generarán automáticamente en la carpeta `resultados/`.
